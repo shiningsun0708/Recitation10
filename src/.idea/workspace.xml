@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="b9a7fceb-3351-49ff-9598-7274a14d5170" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,12 +94,38 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+=======
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../yuansun/homework/2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yuansun/homework/3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yuansun/homework/4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yuansun/recitation/04" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yuansun/recitation/06" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yuansun/recitation/07" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yuansun/recitation/08" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="794" />
+>>>>>>> 3ee2ad793b52b8d6bea6c285a1e906d3f36c3a94
   </component>
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>1.8</last-edited>
+=======
+          <last-edited>11</last-edited>
+>>>>>>> 3ee2ad793b52b8d6bea6c285a1e906d3f36c3a94
           <splitter-proportions>
             <option name="proportions">
               <list>
