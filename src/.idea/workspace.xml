@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../yuansun/homework/2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yuansun/homework/3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yuansun/homework/4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yuansun/recitation/04" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yuansun/recitation/06" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yuansun/recitation/07" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yuansun/recitation/08" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="794" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
